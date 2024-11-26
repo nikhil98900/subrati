@@ -1,0 +1,19 @@
+{
+  "aplikasi": {
+    "G5": {
+      "id": 0,
+      "package": "com.pubg.imobile",
+      "status": "Live",
+      "title": "Battle Ground Mobile India",
+      "version": "3.4.0"
+    }
+  },
+  "loader": {
+    "BGMI": {
+      "gamename": "BGMI",
+      "name": "libbgmi.so",
+      "url": "https://github.com/nikhil98900/jjjjj/releases/download/Bgmi/libMayur.so",
+      "version": 1
+    }
+  }
+}
